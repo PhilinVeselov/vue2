@@ -3,8 +3,6 @@
     <HeaderComponent class="header" />
 
     <div class="layout">
-      
-
       <div class="main-content">
         <router-view />
       </div>
